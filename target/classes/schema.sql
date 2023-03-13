@@ -14,4 +14,3 @@ create table eo.sample (
                            upd_dt datetime not null comment 'update date'
 ) comment 'sample';
 create index eo_sample_x01 on eo.sample (sample_tit);
-/* test */
