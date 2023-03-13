@@ -13,7 +13,6 @@ class EasyoopsApplicationTests {
 	}
 
 	void method() {
-		//asdfasdfasdfasdfasgmoperwnqporneiatpsneklrn;rensdfsdf
 	}
 
 
