@@ -12,4 +12,9 @@ class EasyoopsApplicationTests {
 	void contextLoads() {
 	}
 
+	void method() {
+		//asdfasdfasdfasdfasgmoperwnqporneiatpsneklrn;ren
+	}
+
+
 }
